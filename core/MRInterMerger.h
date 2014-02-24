@@ -1,6 +1,7 @@
 #ifndef MRINTER_MERGER_H
 #define MRINTER_MERGER_H
 
+#include <cmath>
 #include "MRInterResult.h"
 #include "hiaux/threads/tasklauncher.h"
 
