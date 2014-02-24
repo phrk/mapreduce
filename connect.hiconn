@@ -1,0 +1,8 @@
+{
+
+"_NAME" : "mapreduce",
+
+"_CPPFILES" : [ { "type": "Glob", "mask": "core/*.cpp" } ],
+
+"_LINKFLAGS": [ ""]
+}
