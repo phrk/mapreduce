@@ -2,7 +2,7 @@
 #define INTER_RESULT_LOADER_H
 
 #include "hiconfig.h"
-
+#include <errno.h>
 #include "mapreduce.h"
 
 typedef hiaux::hashtable<uint64_t, uint64_t> FileMap;
